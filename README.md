@@ -1,3 +1,3 @@
 # hello-world
-First repository
-<b color:red;>I like web design and development.</b> I am in college taking computer software development. I enjoy writing java.
+First repository</br>
+<b>I like web design and development.</b> <i>I am in college taking computer software development.</i> I enjoy writing java.
