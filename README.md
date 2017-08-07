@@ -1,3 +1,3 @@
 # hello-world
 First repository
-I like web design and development. I am in college taking computer software development. I enjoy writing java.
+<b>I like web design and development.</b> I am in college taking computer software development. I enjoy writing java.
